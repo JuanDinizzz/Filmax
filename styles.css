@@ -1,0 +1,30 @@
+body {
+    background: rgb(28, 236, 236);
+    color: black; 
+    margin: 0px;
+    margin-bottom: 100px; 
+}
+
+header {
+border: solid 8px white; 
+font-size: 40px; 
+padding: 20px;
+background: lightcyan ; 
+display: flex;
+justify-content: center; 
+}
+
+.titulo {
+font-size: 25px; 
+display: flex; 
+justify-content: center; 
+}
+
+.texto {
+font-size: 25px;
+}
+
+img {
+    height: 200px;
+    margin: 20px; 
+}
